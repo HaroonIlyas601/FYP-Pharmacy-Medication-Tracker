@@ -1,0 +1,14 @@
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\bin\Debug\net6.0\SocketProgrammingAPi.exe
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\bin\Debug\net6.0\SocketProgrammingAPi.deps.json
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\bin\Debug\net6.0\SocketProgrammingAPi.runtimeconfig.json
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\bin\Debug\net6.0\SocketProgrammingAPi.dll
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\bin\Debug\net6.0\SocketProgrammingAPi.pdb
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.dll
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\refint\SocketProgrammingAPi.dll
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.pdb
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\SocketProgrammingAPi.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\CRUDAngular\SocketProgrammingAPi\SocketProgrammingAPi\obj\Debug\net6.0\ref\SocketProgrammingAPi.dll
